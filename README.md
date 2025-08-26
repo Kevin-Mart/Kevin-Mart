@@ -20,7 +20,5 @@ and in my free time I enjoy 🎸 playing guitar & exploring music.
 ## 📬 Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-kevinmartinez@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:kevinmartinez@gmail.com)](mailto:kevinmartinez@gmail.com)  
 [![Instagram Badge](https://img.shields.io/badge/-kevin_mtz-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/kevin_mtz/)](https://www.instagram.com/kevin_mtz/)  
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Kevin</h6>
 
